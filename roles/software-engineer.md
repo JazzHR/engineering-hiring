@@ -1,3 +1,5 @@
+![JazzHR Logo](../assets/jazzhr.svg)
+
 # Software Engineer Hiring Process
 
 At JazzHR, we want to create an interview process that allows candidates to perform at their full potential. We believe in being transparent around our hiring process and aim to give you all necessary information upfront to make you feel comfortable. We do not believe in random whiteboard algorithm challenges or trick questions. Everything you encounter in our hiring process should simulate real-life scenarios you could expect here at JazzHR.
