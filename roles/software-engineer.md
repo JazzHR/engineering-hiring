@@ -1,6 +1,4 @@
-<div style="max-width: 200px;">
-![JazzHR Logo](../assets/jazzhr.svg)
-</div>
+![JazzHR Logo](../assets/jazzhr.svg){: width="200"}
 
 # Software Engineer Hiring Process
 
