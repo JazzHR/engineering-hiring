@@ -1,4 +1,4 @@
-![JazzHR Logo](../assets/jazzhr.svg){: width="200"}
+![JazzHR Logo](../assets/jazzhr.png)
 
 # Software Engineer Hiring Process
 
